@@ -3,6 +3,7 @@ A complete pipeline for genetic variant classification, combining unsupervised a
 This repository presents a comprehensive machine learning pipeline for classifying genetic variants, blending both unsupervised and supervised learning techniques to explore structure and improve predictive power.
 
 ////////////////////////////////////////////////////////////////////
+
 What’s Inside:
 
 Data Cleaning & Preprocessing: 
@@ -14,4 +15,5 @@ PCA for visualization, DBSCAN and KMeans for clustering, Elbow method for optima
 Supervised Classification:
 Models: Decision Tree, Random Forest, Logistic Regression
 Performance evaluated using Accuracy, Precision, Recall, F1-score, AUC, Confusion matrices and classification reports visualized and compared
+
 ////////////////////////////////////////////////////////////////////
