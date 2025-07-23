@@ -17,3 +17,6 @@ Models: Decision Tree, Random Forest, Logistic Regression
 Performance evaluated using Accuracy, Precision, Recall, F1-score, AUC, Confusion matrices and classification reports visualized and compared
 
 ////////////////////////////////////////////////////////////////////
+
+This project uses data from the following Kaggle dataset:
+> Classification of Genetic Variants. Available at: https://doi.org/10.34740/kaggle/dsv/1030915
